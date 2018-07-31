@@ -2,9 +2,11 @@
 Create a Company and list all your staffs within the categories: executive, senior management, staff, and intern.
 
 Purpose of App: To create companies and to add employees within each company. 
+
 Why the creation of this app: To utilize CoreData in my app.  
 
 NOTE: ALL DONE PROGRAMMATICALLY.
+
 NOTE: Done in UITableViewController
 
 -------------- What I learned and Implemented -----------------  
@@ -18,5 +20,5 @@ NOTE: Done in UITableViewController
 6. Learned how to uniquely identify each section for that company. 
 7. Used the class DateFormatter to format into string "MM/dd/yyyy" upon creation of a company or employee.
 8. Learned how to migrate, lightweight and custom. (NOTE: Haven't implemented entirely, but just to learn) 
-9. Using navigationBar throughout the application. And to note repeat my code, have implemented it in appDelegate to persist throughout each controller or upon creation of a new controller that needs a navigationBar with item/items.
+9. Using navigationBar throughout the application. And to not repeat my code, I have implemented it in appDelegate to persist throughout each controller or upon creation of a new controller that needs a navigationBar with item/items.
 10. IDK OTHER STUFF. 
