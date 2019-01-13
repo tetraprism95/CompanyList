@@ -39,3 +39,7 @@ Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 <pre>
 $ git clone https://github.com/tetraprism95/CompanyList.git 
 </pre>
+
+## Bugs
+
+- When reset button is tapped. It will crash, but when User opens the app again, the company will be deleted from context.
