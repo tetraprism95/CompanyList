@@ -1,6 +1,6 @@
-# CompanyList
+# CompanyList (ALL DONE PROGRAMMATICALLY) 
 
-Create a company database and list all your employees with the given categories: executive, senior management, staff, and intern.
+Create a company database and list all your employees with the categories provided: executive, senior management, staff, and intern.
 
 # Demo
 
@@ -14,7 +14,7 @@ To learn about CoreData. NOTE: I followed couple tutorials to see how things wor
 - Knowing how to create multiple entities within CoreData
 - Knowing  how to create a context with persitant container
 - How to use NSBatchedDeleteRequest. (Delete Existing Objects and Permanently Removing It From Context) 
-- Fetching objects the right way. I hope LOL.
+- Fetching objects
 - How to uniquely identify each section for its chosen category
 - DateFormatter
 - Using UINavigationBar efficiently throughout
