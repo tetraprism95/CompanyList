@@ -2,12 +2,13 @@
 
 Create a company database and list all your employees with the categories provided: executive, senior management, staff, and intern.
 
+## Why Did I Learn To Create This App? 
+
+To learn about CoreData. NOTE: I followed couple tutorials to see how things worked. 
+
 ## Demo
 
 
-## What Is The Purpose Of This App? 
-
-To learn about CoreData. NOTE: I followed couple tutorials to see how things worked. 
 
 ## What Will Be Found In This App? (Featuring)
 - CoreData
