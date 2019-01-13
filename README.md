@@ -20,6 +20,13 @@ To learn about CoreData. NOTE: I followed couple tutorials to see how things wor
 - Using UINavigationBar efficiently throughout
 - etc...
 
+## Requirements
+<pre>
+IDE: Xcode (NEEDED TO OPEN)
+Language&Version: Swift 4.2 
+Developing software for mainly, macOS, iOS, watchOS, and tvOS.
+</pre>
+
 ## Git Clone
 
 <pre>
