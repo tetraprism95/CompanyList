@@ -5,6 +5,7 @@ Create a company database and list all your employees with the categories provid
 ## Why Did I Learn To Create This App? 
 
 To learn about CoreData. NOTE: I followed couple tutorials to see how things worked. 
+SHOUT OUT TO LetsBuildThatApp!
 
 ## Demo
 
