@@ -19,7 +19,7 @@ SHOUT OUT TO LetsBuildThatApp!
 ## What Will Be Found In This App? (Featuring)
 - CoreData
 - Knowing how to create multiple entities within CoreData
-- Knowing  how to create a context with persitant container
+- Knowing  how to create a context with persistent container
 - How to use NSBatchedDeleteRequest. (Delete Existing Objects and Permanently Removing It From Context) 
 - Fetching objects
 - How to uniquely identify each section for its chosen category
